@@ -1,10 +1,11 @@
 {
 	"First_name": "Yaroslav",
 	"Last_name": "Kovalev",
-	"Age": 26
-	"Devices":{
+	"Age": 26,
+	"Devices": {
 			"Device_1": "iPhone 6s",
-			"Device_2": "Xiaomi redmi note 10 pro"
+			"Device_2": "Xiaomi redmi note 10 pro",
+			"Device_3": "iPhone 11"
 	}
 }
 
