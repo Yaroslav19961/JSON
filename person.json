@@ -3,9 +3,14 @@
 	"Last_name": "Kovalev",
 	"Age": 26,
 	"Devices": {
+		"Mobile": {
 			"Device_1": "iPhone 6s",
 			"Device_2": "Xiaomi redmi note 10 pro",
 			"Device_3": "iPhone 11"
+			},
+		"Laptop":{
+			"Device_1":"ASUS ZenBook 14 AMD Ryzen 5 3500U 8GB RAM"
+			}	
 	}
 }
 
