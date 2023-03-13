@@ -1,0 +1,29 @@
+{
+	"ID": 1,
+	"Title": "В разделе 'Обратная связь' не осуществляется переход по ссылке 'Telegram'",
+	"Precondition": "Пользователь не зарегистрирован",
+	"Steps": {
+		"1.": "Открыть ссайт(ссылка на сайт)", 
+		"2.": "Клик по Burger menu",
+		"3.": "Клик по разделу 'Обратная связь'", 
+		"4.": "Клик по иконке 'Telegram' в разделе 'Соцсети'"
+			},
+	"A.R.": "Переход на страницу с ошибкой 'net::ERR_UNKNOWN_URL_SCHEME'",
+	"E.R.": "Отобразилась страница с переходом на соцсеть 'Telegram'",
+	"Attachment": "Link",
+	"Severity": "Major",
+	"Priority": "Medium",
+	"Status": "Closed",
+	"Author": "@yKovalevy",
+	"Enviroment": {
+		"1":{
+			"OC": "Windows 10 Домашняя 64-разрядная 10.0.19045",
+			"Browser": "Google Chrome v.108.0.5359.125"
+				},
+		"2":{
+			"OC":"Android 12SKQ1.210908. 001",
+			"Browser": "Google Chrome v.108.0.5359.128"
+				}
+	}
+
+}
